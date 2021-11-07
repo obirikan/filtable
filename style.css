@@ -1,0 +1,42 @@
+ul{
+    width: 100%;
+    margin:0px;
+    padding:0px;
+}
+h1{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: cadetblue;
+    opacity: 100px;
+    backface-visibility: visible;
+}
+div{
+    margin-top:20px;
+    margin-left: 25%;
+    width: 50%;  
+    background-color: cornsilk;
+    backface-visibility: visible;
+}
+
+li{ 
+
+    padding: 20px;
+    list-style: none;
+}
+.input{
+    margin-top: 20px;
+    margin-left: 35%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+input[placeholder]{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(59, 167, 59);
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
